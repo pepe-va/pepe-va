@@ -4,18 +4,19 @@ After completing my **Bachelor in Mechanical Engineering** at the **University o
 
 My goal is to contribute to the world of engineering and real-world applications through critical thinking and data-driven insights, leveraging data as a tool to solve complex challenges and create meaningful impact.
 
-
+---
 
 ## 👤 About Me
 
-- 🔍 Passionate about **Industrial Enginnering, Machine Learning, and AI systems design**.  
+- 🔍 Passionate about **Industrial Engineering, Machine Learning, and AI systems design**.  
 - ⚙️ Focused on **end-to-end data workflows**, from ingestion to model deployment.  
 - 🧩 Exploring **LLMs**, **vector databases**, and **intelligent automation**.  
-- 💬 Open to collaboration and building projects that merge **Artificial Intelligence +  Industrial Engineering**.  
+- 💬 Open to collaboration and building projects that merge **Artificial Intelligence + Industrial Engineering**.  
 
+---
 
 ## ⚡ Tech Snapshot
-
+```mermaid
 %%{init: {
   'theme': 'base',
   'themeVariables': {
@@ -72,9 +73,8 @@ mindmap
       Google Colab
       conda
       uv
-
-
-
+```
+---
 
 ## 🔗 Let's Connect
 
