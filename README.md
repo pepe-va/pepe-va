@@ -16,8 +16,6 @@ My goal is to contribute to the world of engineering and real-world applications
 
 ## ⚡ Tech Snapshot
 
-```mermaid
-mindmap
 %%{init: {
   'theme': 'base',
   'themeVariables': {
@@ -74,7 +72,7 @@ mindmap
       Google Colab
       conda
       uv
-```
+
 
 
 
