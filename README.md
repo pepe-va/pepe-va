@@ -60,7 +60,6 @@ I'm more interested in **how well something works** than how impressive the demo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/listening-shelf-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/listening-shelf-light.svg" />
-  <img src="./assets/listening-shelf-light.svg" width="100%" alt="Three favourite records: In Rainbows by Radiohead, Promises by Floating Points and Pharoah Sanders, and Immunity by Jon Hopkins." />
 </picture>
 
 A few records I keep coming back to. For the less curated version, there's my **[listening archive ↗](https://pepeva.fyi/music)** — complete with changing favourites and probably a few questionable transitions.
