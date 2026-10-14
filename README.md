@@ -24,7 +24,6 @@ Currently interested in `agentic systems`, `LLM evaluation` and `data engineerin
 
 ---
 
-<p align="center">
-  <a href="https://pepeva.fyi">website ↗</a> &nbsp;·&nbsp;
-  <a href="mailto:pepe_v.a@hotmail.com">email ↗</a>
-</p>
+If you're working on something, have feedback on a project, or think there's a record I should hear, feel free to reach out.
+
+[**Email ↗**](mailto:pepe_v.a@hotmail.com) · [**pepeva.fyi ↗**](https://pepeva.fyi)
