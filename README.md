@@ -23,7 +23,7 @@ I started with low-voltage systems. Now I build agentic AI products on AWS. I ca
 Currently interested in `agentic systems`, `LLM evaluation` and `data engineering`.
 
 ---
-
+<p align="center">
 If you're working on something, have feedback on a project, or think there's a record I should hear, feel free to reach out.
-
 [**Email ↗**](mailto:pepe_v.a@hotmail.com) · [**pepeva.fyi ↗**](https://pepeva.fyi)
+</p>
