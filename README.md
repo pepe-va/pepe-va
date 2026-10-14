@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm pepe.</h1>
+<h1 align="center">hey 👋 , i'm pepe.</h1>
 
 <p align="center">AI/ML engineer · based in Spain</p>
 
