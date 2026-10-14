@@ -9,8 +9,6 @@
   <a href="https://pepeva.fyi/writings" title="Writing"><img src="./assets/writing-dot.svg" width="28" height="28" alt="Writing" /></a>
 </p>
 
-<p align="center"><sub>projects · music · bookmarks · writing</sub></p>
-
 I started with low-voltage systems. Now I build agentic AI products on AWS. I care about what works beyond the demo, and the details that make it reliable.
 
 ### selected work
